@@ -4,7 +4,7 @@ const weatherDiv = document.getElementsByClassName("tempetature")[0];
 const icon = document.getElementsByClassName("img")[0];
 const condition = document.getElementsByClassName("condition")[0];
 const refreshButton = document.getElementsByClassName("refreshButton")[0];
-const apiKey = `32a628880d6fbb51ced2875ab083643b`;
+const apiKey = `5ae6e20f2fdc565a7caa608c6f696a67`;
 
 //Time + Date
 function getDateTime() {
